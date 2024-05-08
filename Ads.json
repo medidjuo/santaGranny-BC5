@@ -1,32 +1,36 @@
 {
-         "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+      "max_count_ads": "13",
+
+      "our_ads1_activation":"false",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/111.jpg",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.gta.mafia.gangster.cityStreetSim",
 
     "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/222.jpg",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.grand.crime.gangster.openworld.city.crime.simulator",
 
     "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/3.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.jpg",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=gangster.mafia.crime.car.gta",
 
     "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/444.jpg",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
-  "admob_rewarded_video": "",
+  "admob_app_id": "ca-app-pub-1111222233334444~1122334455",
+  "admob_banner": "ca-app-pub-1111222233334444/1122334455",
+  "admob_interstitial": "ca-app-pub-1111222233334444/1122334455",
+  "admob_rewarded_video": "ca-app-pub-1111222233334444/1122334455",
 
-  "unity_app_id": "",
+  "unity_app_id": "1112223",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "",
+  "appLovin_app_id": "00000000000000000000000000000000000000000000000000000000",
   "appLovin_banner": "00000000000",
   "appLovin_interstitial": "00000000000",
   "appLovin_rewarded_video": "00000000000"
+
+
 }
