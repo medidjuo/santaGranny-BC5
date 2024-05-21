@@ -1,21 +1,21 @@
 {
       "max_count_ads": "13",
 
-      "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/111.jpg",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.gta.mafia.gangster.cityStreetSim",
+      "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barry%20Ads%20Small-inter%20grannyCode.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.RainbowHorror.Escapelavaprison",
 
-    "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/222.jpg",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.grand.crime.gangster.openworld.city.crime.simulator",
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds1.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.RainbowHorror.Escapelavaprison",
 
-    "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.jpg",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=gangster.mafia.crime.car.gta",
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds4.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.RainbowHorror.Escapelavaprison",
 
-    "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/444.jpg",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
+    "our_ads_inter_activation":"true",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barry%20Ads%20Large-inter.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.RainbowHorror.Escapelavaprison",
 
   "admob_app_id": "ca-app-pub-1111222233334444~1122334455",
   "admob_banner": "ca-app-pub-1111222233334444/1122334455",
