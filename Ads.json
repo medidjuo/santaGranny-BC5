@@ -1,7 +1,7 @@
 {
-      "max_count_ads": "11",
+  "max_count_ads": "10",
 
-      "our_ads1_activation":"true",
+  "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
 
@@ -25,12 +25,28 @@
   "unity_app_id": "5614003",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "00000000000000000000000000000000000000000000000000000000",
+  "appLovin_app_id": "0000000000000000000000",
   "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_interstitial": "000000000",
 
+    "gameplay_ads_mode": "aggressive",
+"min_time_before_gameplay_ads": "60",
+"min_deaths_before_ads": "2",
 
+"use_mediation": "false",
+
+"max_percentage": "70",
+"admob_percentage": "30",
+
+"applovin_activation": "false",
+"unity_activation": "false",
+"admob_activation": "true",
+
+"applovin_percentage": "0",
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "100"
+
+  
 }
+
