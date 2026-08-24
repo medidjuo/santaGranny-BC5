@@ -1,5 +1,5 @@
 {
-  "max_count_ads": "10",
+  "max_count_ads": "12",
 
   "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
@@ -22,10 +22,10 @@
   "admob_interstitial": "ca-app-pub-5688110051583408/9186887664",
   "admob_rewarded_video": "ca-app-pub-5688110051583408/5247642655",
 
-  "unity_app_id": "27736ac7d",
+  "unity_app_id": "000000",
   "unity_banner": "Banner_Android",
-  "unity_interstitial": "1kh8yx6l4e5he7wc",
-  "unity_rewarded_video": "fkisxn0zf4c6qgjy",
+  "unity_interstitial": "0000000",
+  "unity_rewarded_video": "0000000",
 
   "appLovin_app_id": "0000000000000000000000",
   "appLovin_banner": "00000000000",
@@ -42,12 +42,12 @@
 "admob_percentage": "30",
 
 "applovin_activation": "false",
-"unity_activation": "true",
+"unity_activation": "false",
 "admob_activation": "true",
 
 "applovin_percentage": "0",
-"unity_percentage": "50",
-"admob_percentage_non_mediation": "50"
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "100"
 
   
 }
